@@ -18,7 +18,7 @@ This repository contains three projects completed during my internship at Codsof
    - Inheritance (class inheritance in C++)
    - Basic Error Handling
 
-3. [To-Do List](./to-do-list): An application to manage tasks with functionalities to add, view, mark as completed, and remove tasks. Concepts include:
+3. [To-Do List](./ToDoList): An application to manage tasks with functionalities to add, view, mark as completed, and remove tasks. Concepts include:
    - Input/Output Operations
    - Data Structures (map)
    - Conditional Statements (if-else, switch-case)
