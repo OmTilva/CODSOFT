@@ -10,7 +10,7 @@ This repository contains three projects completed during my internship at Codsof
    - Loops (for loop)
    - Basic Arithmetic Operations
 
-2. [Lucky Number Guessing Game](./lucky-number-guessing-game): A game where the user guesses a randomly generated number. Concepts include:
+2. [Lucky Number Guessing Game](./LuckyNumber): A game where the user guesses a randomly generated number. Concepts include:
    - Input/Output Operations
    - Random Number Generation
    - Conditional Statements (if-else)
