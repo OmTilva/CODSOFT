@@ -2,6 +2,10 @@
 
 This repository contains three projects completed during my internship at Codsoft. Each project showcases different aspects of C++ programming and software development.
 
+## Credits
+
+I would like to extend my sincere gratitude to Codsoft for providing me with the opportunity to work as an intern and gain valuable experience in software development. This internship has allowed me to apply my skills in real-world projects and learn from experienced professionals in the industry.
+
 ## Projects
 
 1. [Simple-Calculator](./Calculator): A basic calculator that performs arithmetic operations (+, -, *, /) on two numbers. Concepts include:
@@ -26,10 +30,6 @@ This repository contains three projects completed during my internship at Codsof
    - String Handling
    - Recursion
    - Error Handling
-
-## Credits
-
-I would like to extend my sincere gratitude to Codsoft for providing me with the opportunity to work as an intern and gain valuable experience in software development. This internship has allowed me to apply my skills in real-world projects and learn from experienced professionals in the industry.
 
 
 ## Author
