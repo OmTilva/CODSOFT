@@ -4,7 +4,7 @@ This repository contains three projects completed during my internship at Codsof
 
 ## Projects
 
-1. [Calculator](./simple-calculator): A basic calculator that performs arithmetic operations (+, -, *, /) on two numbers. Concepts include:
+1. [Simple-Calculator](./Calculator): A basic calculator that performs arithmetic operations (+, -, *, /) on two numbers. Concepts include:
    - Input/Output Operations
    - Conditional Statements (switch-case)
    - Loops (for loop)
